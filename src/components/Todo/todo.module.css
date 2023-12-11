@@ -1,0 +1,21 @@
+.todo-container {
+    background-color: #333;
+  }
+  
+  .todo-title {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .todo-description {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .todo-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 10px;
+  }
+  

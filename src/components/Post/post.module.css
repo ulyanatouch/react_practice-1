@@ -1,0 +1,22 @@
+.postContainer {
+    background: rgb(231, 199, 199);
+}
+
+.marked {
+    background: yellow;
+  }
+
+/* .postTitle {
+    font-size: 24px;
+    color: #333;
+  }
+  .postDescription {
+    font-size: 16px;
+    color: #666;
+  }
+  .postImage {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 10px;
+  } */
